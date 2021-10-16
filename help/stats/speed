@@ -1,0 +1,31 @@
+ 		    Rise of Praxis LPMud Speed Stat Help
+                         Written by Misja 03.10.2015
+
+%^YELLOW%^Speed:%^RESET%^
+
+The natural range of values for a stat breaks down into 5 categories:
+1 - 10:  A character with a stat in this range is deemed to be debilitated/severely retarded in that stat.  Penalties are often applied when a stat is in this range.
+11 - 30:  The character is below average.  While the character is often not penalized for being below average, some penalties might be levied against the player.
+31 - 70: The character is average for their race.  There are no bonuses or penalties applied to anything.
+71 - 90: The character is above average.  Just like below average characters, characters with above average stats may get a small bonus in certain aspects of the game.
+91 - 100: A character with a stat in the top 10% is considered to be gifted for their race.
+
+Values may go above or below the natural range, but only with the aid of magic or other type of intervention.  Stats do not change as you increase in level, but will change with age. It should be noted that a stat level for one race does not necessarily match that of another race.  For example, the average human with average strength might be weaker than a half-giant with below average strength.
+
+	Speed determines how fast a character moves. A speedy character is not always 
+an agile one. If Speed is your highest stat you will want to pick a class
+that has primary skills which use a high percentage of Speed. Here is a 
+list of skills that use Speed (in order of percentage):
+
+knife attack: skill with short blades including knives and some short swords.
+coordination:10% agility:50% %^YELLOW%^speed:20%%^RESET%^ strength:10% luck:10%
+
+Classes that have this skill as a primary: Rogue
+
+multi-weapon: skill at using more than one weapon at once.
+agility:30% coordination:50% %^YELLOW%^speed:20%%^RESET%^
+Classes that have this skill as a primary: Fighter
+
+dodging: skill at nimbly avoiding attacks.
+coordination:20% agility:40% %^YELLOW%^speed:10%%^RESET%^ luck:30% 
+Classes that have this skill as a primary: Mage, Monk, Ranger

@@ -1,0 +1,15 @@
+                   Rise of Praxis LPMud Fighter Class Help
+                         Written by Sorrow 05.26.12
+                           Last modified 05.26.12
+
+%^BOLD%^Fighters:%^RESET%^
+
+ENTER FIGHTER INFO HERE
+
+Their default skills are:
+
+Primary skills:     blade attack, multi-hand, multi-weapon, parrying
+Secondary skills:   blunt attack, dodging, unarmed attack
+Other skills:       faith
+
+Use the command: "%^BOLD%^improve -list%^RESET%^" for specific descriptions of each skill.

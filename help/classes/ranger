@@ -1,0 +1,23 @@
+                   Rise of Praxis LPMud Ranger Class Help
+                         Created by Misja & He 03.10.15
+
+%^YELLOW%^Rangers:%^RESET%^
+
+Rangers are only concerned with one thing: survival. As such, they use the survival skill to fish and trap game.
+With the onset of the improve system and the ridiculousness of wasting points on swimming the people moved away from the 
+seas and became rangers thus rendering the need for fishers obsolete fear of being unable to swim in the seas 
+killed the fishers
+<If someone wants to write a better description for Rangers feel free. I have no motivation for them. -Misja>
+
+
+Their default skills are:
+
+Primary skills:       dodging, survival, projectile attack, stealth
+Bonus skills:     bargaining, warding, alchemy, music, healing, parrying
+
+Stats needed for the Ranger Class
+	Major: Agility, Luck, Coordination 
+	Minor: Strength, Wisdom, Speed
+
+Use the command: "%^YELLOW%^improve -list%^RESET%^" for specific descriptions of each skill.
+Typing %^YELLOW%^help <stat>%^RESET%^ also works.

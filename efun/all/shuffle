@@ -1,0 +1,7 @@
+shuffle() - shuffles and array and returns array
+
+[Synopsis]
+mixed *shuffle(array a);
+
+[Description]
+Array In --> Shuffle --> Array Returned

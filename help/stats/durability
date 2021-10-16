@@ -1,0 +1,34 @@
+                   Rise of Praxis LPMud Durability Stat Help
+                         Written by Misja 03.10.2015
+
+%^YELLOW%^Durability:%^RESET%^
+
+The natural range of values for a stat breaks down into 5 categories:
+1 - 10:  A character with a stat in this range is deemed to be debilitated/severely retarded in that stat.  Penalties are often applied when a stat is in this range.
+11 - 30:  The character is below average.  While the character is often not penalized for being below average, some penalties might be levied against the player.
+31 - 70: The character is average for their race.  There are no bonuses or penalties applied to anything.
+71 - 90: The character is above average.  Just like below average characters, characters with above average stats may get a small bonus in certain aspects of the game.
+91 - 100: A character with a stat in the top 10% is considered to be gifted for their race.
+
+Values may go above or below the natural range, but only with the aid of magic or other type of intervention.  Stats do not change as you increase in level, but will change with age. It should be noted that a stat level for one race does not necessarily match that of another race.  For example, the average human with average strength might be weaker than a half-giant with below average strength.
+
+	Durability determines how much damage a character can withstand. If 
+durability is your highest stat you will want to pick a class that has primary skills
+which use a high percentage of durability. Here is a list of skills that use Durability
+(in order of percentage):
+
+blocking: skill at blocking attacks with a shield
+coordination:10% %^YELLOW%^durability:30%%^RESET%^ strength:40% luck:20% 
+Classes that have this skill as a primary: Bard, Cleric,
+
+armorsmith: the art of making armor.
+coordination:20% wisdom:30% intelligence:30% %^YELLOW%^durability:20%%^RESET%^ 
+Classes that have this skill as a primary:
+
+blade attack: skill with the longer blades including two-handed ones.
+coordination:30% %^YELLOW%^durability:20%%^RESET%^ strength:40% luck:10% 
+Classes that have this skill as a primary: Bard, Fighter
+
+multi-hand: skill at using weapons that require more than one hand to wield.
+coordination:50% %^YELLOW%^durability:20%%^RESET%^ strength:30% 
+Classes that have this skill as a primary: Fighter

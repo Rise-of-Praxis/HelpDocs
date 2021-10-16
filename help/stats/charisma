@@ -1,0 +1,44 @@
+                   Rise of Praxis LPMud Charisma Stat Help
+                         Written by Misja 03.10.2015
+
+%^YELLOW%^Charisma:%^RESET%^
+
+The natural range of values for a stat breaks down into 5 categories:
+1 - 10:  A character with a stat in this range is deemed to be debilitated/severely retarded in that stat.  Penalties are often applied when a stat is in this range.
+11 - 30:  The character is below average.  While the character is often not penalized for being below average, some penalties might be levied against the player.
+31 - 70: The character is average for their race.  There are no bonuses or penalties applied to anything.
+71 - 90: The character is above average.  Just like below average characters, characters with above average stats may get a small bonus in certain aspects of the game.
+91 - 100: A character with a stat in the top 10% is considered to be gifted for their race.
+
+Values may go above or below the natural range, but only with the aid of magic or other type of intervention.  Stats do not change as you increase in level, but will change with age. It should be noted that a stat level for one race does not necessarily match that of another race.  For example, the average human with average strength might be weaker than a half-giant with below average strength.
+
+	Charisma determines how pretty or handsome a character is. Characters with low charisma
+are butt ugly and will have some trouble with interactions in-game. Characters with high
+charisma are beautiful, and will often have things handed to them. If charisma is your highest
+stat (Hello, Sexy!) you will want to pick a class that has primary skills which use a high 
+percentage of charisma. Here is a list of skills that use Charisma (in order of percentage):
+
+bargaining: helps to get the best price when buying or selling.
+%^YELLOW%^charisma:50%%^RESET%^ willpower:20% luck:30% 
+Classes that have this skill as a primary: 
+
+music: skill at singing can be used by the initiate to make some money in
+taverns, and by the adept to augment powerful magic or turn the tides of
+battles.
+coordination:20% agility:20% %^YELLOW%^charisma:50%%^RESET%^ luck:10% 
+
+faith: smite thy foes with the power of your faith.
+wisdom:40% %^YELLOW%^charisma:20%%^RESET%^ willpower:40% 
+Classes that have this skill as a primary: Cleric, Kataan, Monk
+
+conjuring: create something that wasn't there before.
+wisdom:20% %^YELLOW%^charisma:10%%^RESET%^ willpower:40% intelligence:20% luck:10% 
+Classes that have this skill as a primary: Mage
+
+healing: heal the living, resurrect the dead.
+wisdom:40% %^YELLOW%^charisma:10%%^RESET%^ willpower:30% intelligence:20% 
+Classes that have this skill as a primary: Cleric 
+
+stealing: the ancient art of taking what should be yours.
+coordination:10% agility:40% %^YELLOW%^charisma:10%%^RESET%^ willpower:10% luck:30% 
+Classes that have this skill as a primary: Bard, Rogue

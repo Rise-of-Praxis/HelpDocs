@@ -1,0 +1,8 @@
+json
+
+ mixed decodeJSON(string message)
+   Creates an LPC variable from a JSON message.
+
+ string encodeJSON(mixed lpcvar)
+   Creates a JSON message from an LPC variable.
+       

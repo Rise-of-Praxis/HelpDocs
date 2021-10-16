@@ -1,0 +1,15 @@
+                   Rise of Praxis LPMud Monk Class Help
+                         Written by Sorrow 05.26.12
+                           Last modified 05.26.12
+
+%^BOLD%^Monks:%^RESET%^
+
+ENTER MONK STUFF HERE.
+
+Their default skills are:
+
+Primary skills:       knife attack, parrying, stealing, stealth
+Secondary skills:     bargaining, hunting, multi-weapon
+Other skills:         dodging
+
+Use the command: "%^BOLD%^improve -list%^RESET%^" for specific descriptions of each skill.

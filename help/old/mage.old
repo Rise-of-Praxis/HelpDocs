@@ -1,0 +1,19 @@
+                   Rise of Praxis LPMud Mage Class Help
+                         Created by Sorrow 05.26.12
+                         Written by Misja 05.31.12
+
+%^BOLD%^Mages:%^RESET%^
+
+Mages are the most intellectual of the classes. A mage often has his nose in a book whether it is a training manual, a treatise on magic, or a simple entertaining story. Even from simple stories a mage gains a bit of knowledge that aids him in his life. And, because of this knowledge, mages are often eccentric. This distances them from other classes and even makes others question their sanity.
+
+Obviously, a mage is not suited for physical combat. That is to say that he doesn't fight with weapons and armor but uses his surpreme intellect instead. He can conjure missiles and arrows from thin air and hurl them at his enemies. He can call down lightning to strike his foes or entrap them inside a bubble of lava. His magical protections can absorb hits both magical and arcane -- not only for the mage, but for the entire group as well.
+
+With all that power and knowledge, it is no wonder that mages are a bit smug. It is no wonder that they add dramatic embellishments to their spells, and it is even less of a wonder that the other classes question their sanity because of these embellishments. But, even if they think a mage might be insane, others are still wary of him and the power he holds. 
+
+Their default skills are:
+
+Primary skills:       conjuring, evocation, dodging, warding
+Secondary skills:     bargaining, healing, knife attack
+Other skills:         faith
+
+Use the command: "%^BOLD%^improve -list%^RESET%^" for specific descriptions of each skill.

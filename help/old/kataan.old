@@ -1,0 +1,19 @@
+                   Rise of Praxis LPMud Kataan Class Help
+                         Created by Sorrow 05.26.12
+                         Written by Misja 05.29.12
+
+%^BOLD%^Kataans:%^RESET%^
+
+Kataans are the complete opposite of clerics. Where clerics vow to do no violence, kataans revel in it. A kataan is willing and eager to do battle, but he is not the physical sort of warrior. If it were not for the dark god, Lintokh, a kataan might be seen as a mere battle mage. But all kataans worship Lintokh and are willing to pay him in blood for the spells and abilities he grants.
+
+Kataans are generally not tolerant of outsiders. When training, they either fight alone or group with others of their class. A kataan would rather kill someone than befriend them. A kataan is also not above pretending to be a friend only to kill that friend later. It all depends on Lintokh's will or the kataan's hunger for power.
+
+Because of this, you can often find a kataan engaged in Player vs Player (PvP) combat. If you're lucky, you find one, but most often you won't find a kataan because he is very skilled in hiding himself. And, chances are, you will end up being sacrificed by the very kataan you were looking for.
+
+Their default skills are:
+
+Primary skills:     evocation, faith, polearm attack, stealth
+Secondary skills:   blunt attack, parrying, stealing
+Other skills:       conjuring
+
+Use the command: "%^BOLD%^improve -list%^RESET%^" for specific descriptions of each skill.

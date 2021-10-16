@@ -1,0 +1,24 @@
+                   Rise of Praxis LPMud Bard Class Help
+                         Written by Misja 05.26.12
+                           Misja modified 03.10.15
+
+%^YELLOW%^Bards:%^RESET%^
+
+While most classes focus on survival, bards focus on entertainment. Music is of prime importance to the bard, so much so that he will resort to unsavory methods of supporting himself as long as most of his time is spent singing or playing an instrument. An instrument, if the bard is wealthy enough to afford one, is his most important possession. If he cannot afford an instrument, a bard makes do with his voice.
+
+Bards will never be able to fight as good as a fighter or hide as good as a rogue but they can hold their own. A bard is perfectly capable of adventuring on his own or helping others in a party. A skilled bard can sing songs that will protect, heal, and speed the party. More importantly, he can provide entertainment for the group during downtime.
+
+Bards are more than mere story tellers or poets. A bard %^YELLOW%^sings%^RESET%^ his stories in poetic form. True bards can write songs on any subject from fingernails to rain. They can weave a complex story involving romance and war. Most importantly, a true bard can mezmerize his audience, leaving them wanting more.
+
+Their default skills are:
+
+Primary skills:     blade attack, blocking, music, stealing
+Secondary skills:   conjuring, stealth, warding
+Other skills:       faith
+
+Stats needed for the Bard Class
+	Major: Strength, Coordination, Charisma, Luck,
+	Minor: Durability, Agility, Willpower
+ 
+Use the command: "%^YELLOW%^improve -list%^RESET%^" for specific descriptions of each skill.
+Typing %^YELLOW%^help <stat>%^RESET%^ also works.

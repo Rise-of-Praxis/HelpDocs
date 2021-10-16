@@ -1,0 +1,15 @@
+                   Rise of Praxis LPMud Fisher Class Help
+                         Written by Sorrow 05.26.12
+                           Last modified 05.26.12
+
+%^BOLD%^Fishers:%^RESET%^
+
+ENTER FISHER INFORMATION HERE
+
+Their default skills are:
+
+Primary skills:       dodging, fishing, polearm attack, stealth
+Secondary skills:     bargaining, warding, projectile attack
+Other skills:         healing
+
+Use the command: "%^BOLD%^improve -list%^RESET%^" for specific descriptions of each skill.

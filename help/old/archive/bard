@@ -1,0 +1,15 @@
+                   Rise of Praxis LPMud Bard Class Help
+                         Written by Sorrow 05.26.12
+                           Last modified 05.26.12
+
+%^BOLD%^Bards:%^RESET%^
+
+ENTER BARD INFO HERE.....
+
+Their default skills are:
+
+Primary skills:     blade attack, blocking, music, stealing
+Secondary skills:   conjuring, stealth, warding
+Other skills:       faith
+
+Use the command: "%^BOLD%^improve -list%^RESET%^" for specific descriptions of each skill.

@@ -1,0 +1,27 @@
+                   Rise of Praxis LPMud Rogue Class Help
+                         Created by Sorrow 05.26.12
+                         Written by Misja 05.31.12
+                         Updated by Misja 03.10.15
+
+%^BOLD%^Rogues:%^RESET%^
+
+Most clases view rogues as extremely varied scum who spend their days practicing the less accepted crafts of society. What they don't consider is why a rogue does what he does. Some rogues have no other choice but to steal for a living. Others have been rogues for so long that they don't know another way of life. And then, there are those who see the ability to steal and pick locks as a lucrative way of life. These rogues are often in the class for the thrill of breaking the law and not because they need money. Whatever a rogue's motives for doing what he does, they all view each other as a brotherhood. But, just like brothers, rogues treat each other with respect; as long as they face each other. Once a back is turned, anything goes. This is not to say that rogues do not have any rules in their society - it's just that rogues are ambitious and if they see a way to elevate themselves within the class then they will take that chance without hesitation. 
+
+Though society shuns them, rogues are useful allies. If you need money, an established rogue is the person to go to. But, keep in mind that the rogue sets the rate of interest on his loans. So, if you find yourself desperate, then it's best to borrow from a lender who has no qualms towards you. And, you should also be careful borrowing from more than one rogue. Although rogues are brothers of sorts, they may take offense if you borrow from more than one of them. 
+
+Rogues are also useful because they can pick locks and open doors - for a fee, of course. Whether a rogue charges (and what he charges) is completely up to the individual rogue. Some might be happy to open a door for free if they expect that something on the other side will benefit them. Others might charge an exhorbitant sum to the same.
+
+A rogue is strongest at the start of battle. Like kataans, rogues can hide themselves very well. Not only can he stay invisible until his inital attack but he can also backstab and murder a foe. Sometimes, these abilities will even ignore magical shields. And, sometimes, these attacks will kill an enemy in one hit. With rogues, a lot depends on luck, chance, and skill.
+
+Their default skills are:
+
+Primary skills:       knife attack, parrying, stealing, stealth
+Secondary skills:     bargaining, hunting, multi-weapon
+Other skills:         dodging
+
+Stats needed for the Rogue Class
+	Major: Agility, Coordination, Luck, Strength
+	Minor: Speed, Intelligence, Charisma, Willpower	
+  
+Use the command: "%^BOLD%^improve -list%^RESET%^" for specific descriptions of each skill.
+Typing %^YELLOW%^help <stat>%^RESET%^ also works.

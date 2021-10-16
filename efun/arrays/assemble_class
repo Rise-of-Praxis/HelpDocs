@@ -1,0 +1,7 @@
+assemble_class() - Construct a class from an array.
+
+[Synopsis]
+class assemble_class( mixed *arr )
+
+[Description]
+Returns a new class of size sizeof( arr ), with the n:th element of arr as n:th element. 

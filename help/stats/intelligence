@@ -1,0 +1,51 @@
+                   Rise of Praxis LPMud Intelligence Stat Help
+                         Written by Misja 03.10.2015
+
+%^YELLOW%^Intelligence:%^RESET%^
+
+The natural range of values for a stat breaks down into 5 categories:
+1 - 10:  A character with a stat in this range is deemed to be debilitated/severely retarded in that stat.  Penalties are often applied when a stat is in this range.
+11 - 30:  The character is below average.  While the character is often not penalized for being below average, some penalties might be levied against the player.
+31 - 70: The character is average for their race.  There are no bonuses or penalties applied to anything.
+71 - 90: The character is above average.  Just like below average characters, characters with above average stats may get a small bonus in certain aspects of the game.
+91 - 100: A character with a stat in the top 10% is considered to be gifted for their race.
+
+Values may go above or below the natural range, but only with the aid of magic or other type of intervention.  Stats do not change as you increase in level, but will change with age. It should be noted that a stat level for one race does not necessarily match that of another race.  For example, the average human with average strength might be weaker than a half-giant with below average strength.
+
+	Intelligence Defines the books smarts of a character. The higher a character's
+intelligence, the more it can study and remember. If intelligence is your highest stat
+you will want to pick a class that has primary skills which use a high percentage of 
+intelligence. Here is a list of skills that use Intelligence (in order of percentage):
+
+evocation: project magical power at thine enemies.
+wisdom:20% willpower:30% %^YELLOW%^intelligence:50%%^RESET%^ 
+Classes that have this skill as a primary: Kataan, Mage
+
+warding: weave magical protections to protect against damage.
+wisdom:30% willpower:30% %^YELLOW%^intelligence:40%%^RESET%^
+Classes that have this skill as a primary: Cleric, Mage, Monk
+
+alchemy: mix your own mystical potions and poisons
+wisdom:30% willpower:20% %^YELLOW%^intelligence:30%%^RESET%^ luck:20% 
+Classes that have this skill as a primary:
+
+armorsmith: the art of making armor.
+coordination:20% wisdom:30% %^YELLOW%^intelligence:30%%^RESET%^ durability:20% 
+Classes that have this skill as a primary:
+
+weaponsmith: the art of making weapons.
+coordination:20% wisdom:30% %^YELLOW%^intelligence:30%%^RESET%^ strength:20% 
+Classes that have this skill as a primary:
+
+conjuring: create something that wasn't there before.
+wisdom:20% charisma:10% willpower:40% %^YELLOW%^intelligence:20%%^RESET%^luck:10% 
+Classes that have this skill as a primary: Mage
+
+healing: heal the living, resurrect the dead.
+wisdom:40% charisma:10% willpower:30% %^YELLOW%^intelligence:20%%^RESET%^ 
+Classes that have this skill as a primary: Cleric 
+
+parrying: skill at deflecting attacks while wielding a weapon.
+agility:30% coordination:40% %^YELLOW%^intelligence:20%%^RESET%^ strength:20% 
+Classes that have this skill as a primary: Fighter, Rogue
+

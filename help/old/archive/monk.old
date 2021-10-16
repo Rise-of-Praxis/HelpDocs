@@ -1,0 +1,24 @@
+                   Rise of Praxis LPMud Monk Class Help
+                         Written by Misja 05.31.12
+                           Last modified 03.10.15
+
+%^BOLD%^Monks:%^RESET%^
+
+Monks are religious warriors. Unlike kataans they do not revel in violence, but unlike clerics they do not abhor it either. And, unlike fighters, they do not use weapons. So, while they have aspects of other classes, monks differ from them as well.
+
+A monk's default faith is monodeism: the worship of the unnamed god. Monodeists are unique in this aspect of faith and often face ridicule because they do not know the name of the god they worship. However, each worshipper may have developed a name for the one they adulate but it is a secret name held close to each monk's heart. While some develop names, others look on the naming practice of The Unnamed One as blasphemy. If the god had wanted us to know his name -- or even his gender -- he would have told us what it was.
+
+Without faith a monk is little more than a weaponless thug or brute. Faith gives a monk the power to smite his foes, the ability to understand all regardless of language, and the powerful can call rapture to injure all in an area. Without faith, all a monk can do is hit things with his fists.
+
+Their default skills are:
+
+Primary skills:       dodging, faith, unarmed attack, warding
+Secondary skills:     alchemy, fishing, restoration, stealth
+Other skills:         music, stealing
+
+Stats needed for the Monk Class
+	Major: Wisdom, Agility, Willpower, Luck, Coordination
+	Minor: Intelligence, Strength, Charisma, Speed
+
+Use the command: "%^BOLD%^improve -list%^RESET%^" for specific descriptions of each skill.
+Typing %^YELLOW%^help <stat>%^RESET%^ also works.

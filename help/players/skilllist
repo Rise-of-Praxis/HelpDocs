@@ -1,0 +1,47 @@
+%^BOLD%^Melee Attack Skills:%^RESET%^
+
+%^CYAN%^blade attack%^RESET%^- use of longer blades including two-handed ones
+%^CYAN%^knife attack%^RESET%^- use of short blades including knives and short swords
+%^CYAN%^unarmed attack%^RESET%^- use of unarmed combat (Melee Attack)
+%^CYAN%^projectile attack%^RESET%^- use of bows and crossbows (New)
+%^CYAN%^blunt attack%^RESET%^- use of clubs and other blunt instruments
+%^CYAN%^polearm attack%^RESET%^- use of polearms like spears or halberds (projectile attack)
+%^CYAN%^multi-weapon%^RESET%^- use more than one weapon at a time
+%^CYAN%^multi-hand%^RESET%^- use of weapons that require more than one hand to wield
+
+%^BOLD%^Melee Defence Skills:%^RESET%^
+
+%^CYAN%^blocking%^RESET%^- blocking attacks with a shield
+%^CYAN%^dodging%^RESET%^- skill of nimbly avoiding attacks
+%^CYAN%^parrying%^RESET%^- deflecting attacks while wielding a weapon
+Note: melee defense, knife defense, blade defense, projectile defense, blunt defense were collectively grouped together and then split into these.
+
+%^BOLD%^Crafting Skills:%^RESET%^
+
+%^CYAN%^weaponsmith%^RESET%^- the art of making weapons
+%^CYAN%^armorsmith%^RESET%^- the art of making armor
+%^CYAN%^alchemy%^RESET%^- mix your own mystical potions and poisons
+
+%^BOLD%^Survival Skills:%^RESET%^
+
+%^CYAN%^music%^RESET%^- skill at singing can be used by the initiate to make some money in taverns, and by
+ the adept to augment powerful magic or turn the tides of battles
+%^CYAN%^stealing%^RESET%^- the ancient art of taking what should be yours
+%^CYAN%^stealth%^RESET%^- the ability to sneak around and even cloak yourself in shadows and strike first in battle
+%^CYAN%^fishing%^RESET%^- fishing allows one to catch fish, and is rumored to have other uses as well
+%^CYAN%^hunting%^RESET%^- the ability to butcher animals, track things, and even set traps
+%^CYAN%^swimming%^RESET%^- good to have when underwater
+%^CYAN%^bargaining%^RESET%^- helps to get the best price when buying or selling
+%^CYAN%^survival%^RESET%^ - TBD
+
+%^BOLD%^Magic Skills:%^RESET%^
+
+%^CYAN%^evocation%^RESET%^- create something that wasn't there before
+%^CYAN%^conjuring%^RESET%^- weave magical protections to protect against damage
+%^CYAN%^warding%^RESET%^- weave magical protections to protect against damage
+%^CYAN%^necromancy%^RESET%^ - Weave magic powers over the dead
+
+%^BOLD%^Faith Skills:%^RESET%^
+
+%^CYAN%^faith%^RESET%^-  smite thy foes with the power of your faith.
+%^CYAN%^healing%^RESET%^- heal the living, resurrect the dead.

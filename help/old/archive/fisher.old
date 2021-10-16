@@ -1,0 +1,25 @@
+                   Rise of Praxis LPMud Fisher Class Help
+                         Created by Sorrow 05.26.12
+                           Written by Misja 05.29.12
+
+%^BOLD%^Fishers:%^RESET%^
+
+Many look on fishers as the ultimate slackers because, like bards, fishers are not overly concerned with battle. But just because a fisher is not concerned with fighting doesn't mean he harbors no deeper concerns. "How will I eat? How can I take care of my family?" So, while a fisher spends a good part of the day fishing, he makes sure that he and his loved ones are well fed. Once they have eaten their fill, any extra fish can be sold for coin to purchase other goods.
+
+Even though fishers have attack and defense skills, they are more concerned with having a full belly. All a fisher's skills are put into catching food.  They must be quiet and sneaky so as not to scare the fish away. They are experienced with dodging and polearm attack just in case that fish decides to fight back - or the fisher manages to catch a monster instead of a fish. After the fish is caught, fishers are great bargainers, getting the most coin possible for their day's work.
+
+This is not to say that fishers don't enjoy fishing. To most it is a natural step from what they enjoy to making a living. Fishers are often loners, but they're not above sharing a fishing spot with a friend or helping a new fisher "learn the ropes." Even though fishers must be silent to catch fish, they are quite talkative and conversant in their class and with others. Perhaps it is the hours spent in isolation with only the fish, forest, and streams that makes them this way. Or perhaps it is that the noise of battle or music does not constantly overwhelm a fisher's senses and he can be more attentive to others.
+
+Their default skills are:
+
+Primary skills:       dodging, fishing, polearm attack, stealth
+Secondary skills:     bargaining, warding, projectile attack
+Other skills:         healing
+
+Stats needed for the Fisher Class
+	Major:
+
+
+
+Use the command: "%^BOLD%^improve -list%^RESET%^" for specific descriptions of each skill.
+Typing %^YELLOW%^help <stat>%^RESET%^ also works.

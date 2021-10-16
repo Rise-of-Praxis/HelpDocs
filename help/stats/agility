@@ -1,0 +1,74 @@
+                   Rise of Praxis LPMud Agility Stat Help
+                         Written by Misja 03.10.2015
+
+%^YELLOW%^Agility:%^RESET%^
+
+The natural range of values for a stat breaks down into 5 categories:
+1 - 10:  A character with a stat in this range is deemed to be debilitated/severely retarded in that stat.  Penalties are often applied when a stat is in this range.
+11 - 30:  The character is below average.  While the character is often not penalized for being below average, some penalties might be levied against the player.
+31 - 70: The character is average for their race.  There are no bonuses or penalties applied to anything.
+71 - 90: The character is above average.  Just like below average characters, characters with above average stats may get a small bonus in certain aspects of the game.
+91 - 100: A character with a stat in the top 10% is considered to be gifted for their race.
+
+Values may go above or below the natural range, but only with the aid of magic or other type of intervention.  Stats do not change as you increase in level, but will change with age. It should be noted that a stat level for one race does not necessarily match that of another race.  For example, the average human with average strength might be weaker than a half-giant with below average strength.
+
+	Agility determines how well a character moves around. The higher a
+character's agility the better chance it has to dodge. If agility is your
+highest stat you will want to pick a class that has primary skills which use a high
+percentage of agility. Here is a list of skills that use Agility (in order of
+percentage):
+
+knife attack: skill with short blades including knives and some short swords.
+coordination:10% %^YELLOW%^agility:50%%^RESET%^ speed:20% strength:10% luck:10%
+
+Classes that have this skill as a primary: Rogue,
+
+dodging: skill at nimbly avoiding attacks.
+coordination:20% %^YELLOW%^agility:40%%^RESET%^ speed:10% luck:30% 
+Classes that have this skill as a primary: Mage, Monk, Ranger
+
+stealing: the ancient art of taking what should be yours.
+coordination:10% %^YELLOW%^agility:40%%^RESET%^ charisma:10% willpower:10%
+luck:30% 
+Classes that have this skill as a primary: Bard, Rogue
+
+stealth: the ability to sneak around and even cloak yourself in shadows and
+strike first in battle.
+coordination:40% %^YELLOW%^agility:40%%^RESET%^ luck:20% 
+Classes that have this skill as a primary: Kataan, Rogue, Ranger
+
+swimming: good to have when underwater.
+coordination:30% %^YELLOW%^agility:40%%^RESET%^ strength:30% 
+Classes that have this skill as a primary: 
+
+hunting: the ability to butcher animals, track things, and even set traps.
+%^YELLOW%^agility:30%%^RESET%^ wisdom:40% luck:30% 
+Classes that have this skill as a primary: 
+
+parrying: skill at deflecting attacks while wielding a weapon.
+%^YELLOW%^agility:30%%^RESET%^ coordination:40% intelligence:20% strength:20% 
+Classes that have this skill as a primary: Fighter, Rogue
+
+projectile attack: skill at using bows and crossbows.
+%^YELLOW%^agility:30%%^RESET%^ coordination:40% strength:20% luck:20% 
+Classes that have this skill as a primary: Ranger,
+
+unarmed attack: skill with unarmed combat.
+coordination:30% %^YELLOW%^agility:30%%^RESET%^ wisdom:10% strength:30%
+luck:10%
+Classes that have this skill as a primary: Monk,
+
+multi-weapon: skill at using more than one weapon at once.
+%^YELLOW%^agility:30%%^RESET%^ coordination:50% speed:20% 
+Classes that have this skill as a primary: Fighter,
+
+music: skill at singing can be used by the initiate to make some money in
+taverns, and by the adept to augment powerful magic or turn the tides of
+battles.
+coordination:20% %^YELLOW%^agility:20%%^RESET%^ charisma:50% luck:10% 
+Classes that have this skill as a primary: Bard,
+
+survival: survival allows one to catch fish, place traps, and do other things
+coordination:10% %^YELLOW%^agility:20%%^RESET%^ wisdom:20% strength:10%
+luck:40% 
+Classes that have this skill as a primary: Ranger,primary: Mage, Monk, Ranger

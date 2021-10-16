@@ -1,0 +1,21 @@
+                   Rise of Praxis LPMud Necromancer Class Help
+                         Created by Typhon 03.29.15
+
+Necromancers:
+
+After the destruction of Praxis and the war between Lintokh and Azash left devastation in its wake, a group of mages, clerics, monks and kataans turned towards the darker arts. Instead of focusing on life or the arcane, their focus was entirely on mastering death. 
+Further they turned from the ways of conjuring things out of nothing to instead focus on the art  of improving what was already there. Instead of summoning fireballs and hurling them at their enemies, they learned the ways to make their weapons burn with the heat of a fireball. Their skills in the realm of enchanting is unmatched by any other.
+
+Necromancers fashion themselves to be more in tune with the wizardry side of their lineage, and typically carry a staff with them to fight with and defend themselves with. Given their domain over controlling the dead,  the most important stat to them is their willpower and their wisdom.
+
+Their default skills are:
+
+Primary skills:     blunt attack, necromancy, enchantment, warding
+Bonus skills:       multi-hand, dodging, healing, conjuring, faith, alchemy
+
+Stats needed for the Necromancer Class
+	Major: Willpower, Wisdom, Intelligence
+	Minor: Speed, coordination, Luck
+   
+Use the command: "improve -list" for specific descriptions of each skill.
+Typing help <stat> also works.

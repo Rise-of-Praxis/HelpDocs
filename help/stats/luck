@@ -1,0 +1,84 @@
+                   Rise of Praxis LPMud Luck Stat Help
+                         Written by Misja 03.10.2015
+
+%^YELLOW%^Luck:%^RESET%^
+
+The natural range of values for a stat breaks down into 5 categories:
+1 - 10:  A character with a stat in this range is deemed to be debilitated/severely retarded in that stat.  Penalties are often applied when a stat is in this range.
+11 - 30:  The character is below average.  While the character is often not penalized for being below average, some penalties might be levied against the player.
+31 - 70: The character is average for their race.  There are no bonuses or penalties applied to anything.
+71 - 90: The character is above average.  Just like below average characters, characters with above average stats may get a small bonus in certain aspects of the game.
+91 - 100: A character with a stat in the top 10% is considered to be gifted for their race.
+
+Values may go above or below the natural range, but only with the aid of magic or other type of intervention.  Stats do not change as you increase in level, but will change with age. It should be noted that a stat level for one race does not necessarily match that of another race.  For example, the average human with average strength might be weaker than a half-giant with below average strength.
+
+	Luck determines how successful an action is. If luck is your highest
+stat you will want to pick a class that has primary skills which use a high 
+percentage of luck. Here is a list of skills that use Luck (in order of percentage):
+
+survival: survival allows one to catch fish, place traps, and do other things
+coordination:10% agility:20% wisdom:20% strength:10% %^YELLOW%^luck:40%%^RESET%^ 
+Classes that have this skill as a primary: Ranger,
+
+bargaining: helps to get the best price when buying or selling.
+charisma:50% willpower:20% %^YELLOW%^luck:30%%^RESET%^
+Classes that have this skill as a primary: 
+
+dodging: skill at nimbly avoiding attacks.
+coordination:20% agility:40% speed:10% %^YELLOW%^luck:30%%^RESET%^
+Classes that have this skill as a primary: Mage, Monk, Ranger
+
+hunting: the ability to butcher animals, track things, and even set traps.
+agility:30% wisdom:40% %^YELLOW%^luck:30%%^RESET%^
+Classes that have this skill as a primary: 
+
+stealing: the ancient art of taking what should be yours.
+coordination:10% agility:40% charisma:10% willpower:10% %^YELLOW%^luck:30%%^RESET%^
+Classes that have this skill as a primary: Bard, Rogue
+
+alchemy: mix your own mystical potions and poisons
+wisdom:30% willpower:20% intelligence:30% %^YELLOW%^luck:20%%^RESET%^
+Classes that have this skill as a primary:
+
+blocking: skill at blocking attacks with a shield
+coordination:10% durability:30% strength:40% %^YELLOW%^luck:20%%^RESET%^
+Classes that have this skill as a primary: Bard, Cleric,
+
+projectile attack: skill at using bows and crossbows.
+agility:30% coordination:40% strength:20% %^YELLOW%^luck:20%%^RESET%^
+Classes that have this skill as a primary: Ranger
+
+blunt attack: skill with clubs and other blunt instruments.
+coordination:20% strength:60% %^YELLOW%^luck:20%%^RESET%^
+Classes that have this skill as a primary:
+
+stealth: the ability to sneak around and even cloak yourself in shadows and
+strike first in battle.
+coordination:40% agility:40% %^YELLOW%^luck:20%%^RESET%^
+Classes that have this skill as a primary: Kataan, Rogue, Ranger
+
+conjuring: create something that wasn't there before.
+wisdom:20% charisma:10% willpower:40% intelligence:20% %^YELLOW%^luck:10%%^RESET%^ 
+Classes that have this skill as a primary: Mage
+
+blade attack: skill with the longer blades including two-handed ones.
+coordination:30% durability:20% strength:40% %^YELLOW%^luck:10%%^RESET%^
+Classes that have this skill as a primary: Bard, Fighter
+
+knife attack: skill with short blades including knives and some short swords.
+coordination:10% agility:50% speed:20% strength:10% %^YELLOW%^luck:10%%^RESET%^
+Classes that have this skill as a primary: Rogue
+
+music: skill at singing can be used by the initiate to make some money in
+taverns, and by the adept to augment powerful magic or turn the tides of
+battles.
+coordination:20% agility:20% charisma:50% %^YELLOW%^luck:10%%^RESET%^
+Classes that have this skill as a primary: Bard,
+
+polearm attack: skill with polearms like spears or halberds.
+coordination:50% strength:30% %^YELLOW%^luck:10%%^RESET%^
+Classes that have this skill as a primary: Kataan
+
+unarmed attack: skill with unarmed combat.
+coordination:30% agility:30% wisdom:10% strength:30% %^YELLOW%^luck:10%%^RESET%^
+Classes that have this skill as a primary: Monk

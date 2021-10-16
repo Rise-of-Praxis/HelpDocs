@@ -1,0 +1,21 @@
+                   Rise of Praxis LPMud Kataan Class Help
+                         Written by Sorrow 05.26.12
+                           Last modified 05.26.12
+
+%^BOLD%^Kataans:%^RESET%^
+
+Kataans are by default a demonic class that uses their faith to do dark blood 
+magics in their worship of Lintokh.  
+
+Kataans are designed for people who like to role-play and adventure in
+groups.  The role-player will find the unique character of being a
+Kataan very challenging, and people who enjoy group adventuring will find
+their skills in high demand.
+
+Their default skills are:
+
+Primary skills:     evocation, faith, polearm attack, stealth
+Secondary skills:   blunt attack, parrying, stealing
+Other skills:       conjuring
+
+Use the command: "%^BOLD%^improve -list%^RESET%^" for specific descriptions of each skill.

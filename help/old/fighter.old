@@ -1,0 +1,18 @@
+                   Rise of Praxis LPMud Fighter Class Help
+                         Created by Sorrow 05.26.12
+                         Written by Misja 05.27.12
+                          Last modified 05.31.12
+
+%^BOLD%^Fighters:%^RESET%^
+
+Where mages are masters of the arcane, fighters are masters of the physical. They prefer to fight hands-on, elbow-deep in the battle. While they're not very good at blunt and unarmed attacks, they still have some skill. Fighters are much better at blade attack and can wield two weapons at once. Or, if they prefer, they can wield a two-handed weapon with a higher efficiency than other classes.
+
+To a fighter, strength and skill are more valuable than beauty. This is not to say that they don't appreciate beauty; they would simply rather focus on their weapon skills than be pretty themselves. Also, while intelligence is important, it is the least important of a fighter's needed stats. So, it is not surprising that other classes may see fighters as dumb and ugly brutes - but this prejudice is recounted when these classes witness a fighter's ability and prowess in battle.
+
+Their default skills are:
+
+Primary skills:     blade attack, multi-hand, multi-weapon, parrying
+Secondary skills:   blunt attack, dodging, unarmed attack
+Other skills:       faith
+
+Use the command: "%^BOLD%^improve -list%^RESET%^" for specific descriptions of each skill.

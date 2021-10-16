@@ -1,0 +1,64 @@
+                   Rise of Praxis LPMud Strength Stat Help
+                         Written by Misja 03.10.2015
+
+%^YELLOW%^Strength:%^RESET%^
+The natural range of values for a stat breaks down into 5 categories:
+1 - 10:  A character with a stat in this range is deemed to be debilitated/severely retarded in that stat.  Penalties are often applied when a stat is in this range.
+11 - 30:  The character is below average.  While the character is often not penalized for being below average, some penalties might be levied against the player.
+31 - 70: The character is average for their race.  There are no bonuses or penalties applied to anything.
+71 - 90: The character is above average.  Just like below average characters, characters with above average stats may get a small bonus in certain aspects of the game.
+91 - 100: A character with a stat in the top 10% is considered to be gifted for their race.
+
+Values may go above or below the natural range, but only with the aid of magic or other type of intervention.  Stats do not change as you increase in level, but will change with age. It should be noted that a stat level for one race does not necessarily match that of another race.  For example, the average human with average strength might be weaker than a half-giant with below average strength.
+
+	Strength determines how strong your character is. The higher a character's strength, the more it can carry. If strength is your highest stat you will want to pick a class that has primary skills which use a high percentage of strength. Here is a list of skills that use Strength (in order of percentage):
+
+
+blunt attack: skill with clubs and other blunt instruments.
+coordination:20% %^YELLOW%^strength:60%%^RESET%^ luck:20% 
+Classes that have this skill as a primary: 
+
+blade attack: skill with the longer blades including two-handed ones.
+coordination:30% durability:20% %^YELLOW%^strength:40%%^RESET%^ luck:10% 
+Classes that have this skill as a primary: Fighter, Bard,
+
+blocking: skill at blocking attacks with a shield
+coordination:10% durability:30% %^YELLOW%^strength:40%%^RESET%^ luck:20% 
+Classes that have this skill as a primary: Bard, Cleric,
+
+polearm attack: skill with polearms like spears or halberds.
+coordination:50% %^YELLOW%^strength:30%%^RESET%^ luck:10% 
+Classes that have this skill as a primary: Kataan,
+
+multi-hand: skill at using weapons that require more than one hand to wield.
+coordination:50% durability:20% %^YELLOW%^strength:30%%^RESET%^ 
+Classes that have this skill as a primary: Fighter,
+
+swimming: good to have when underwater.
+coordination:30% agility:40% %^YELLOW%^strength:30%%^RESET%^
+Classes that have this skill as a primary: 
+
+unarmed attack: skill with unarmed combat.
+coordination:30% agility:30% wisdom:10% %^YELLOW%^strength:30%%^RESET%^ luck:10% 
+Classes that have this skill as a primary: Monk,
+
+parrying: skill at deflecting attacks while wielding a weapon.
+agility:30% coordination:40% intelligence:20% %^YELLOW%^strength:20%%^RESET%^ 
+Classes that have this skill as a primary: Fighter, Rogue
+
+projectile attack: skill at using bows and crossbows.
+agility:30% coordination:40% %^YELLOW%^strength:20%%^RESET%^ luck:20% 
+Classes that have this skill as a primary: Ranger,
+
+knife attack: skill with short blades including knives and some short swords.
+coordination:10% agility:50% speed:20% %^YELLOW%^strength:10%%^RESET%^ luck:10% 
+Classes that have this skill as a primary: Rogue,
+
+weaponsmith: the art of making weapons.
+coordination:20% wisdom:30% intelligence:30% %^YELLOW%^strength:20%%^RESET%^
+Classes that have this skill as a primary: 
+
+survival: survival allows one to catch fish, place traps, and do other things
+coordination:10% agility:20% wisdom:20% %^YELLOW%^strength:10%%^RESET%^ luck:40% 
+Classes that have this skill as a primary: Ranger,
+

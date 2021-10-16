@@ -1,0 +1,64 @@
+                   Rise of Praxis LPMud Wisdom Stat Help
+                         Written by Misja 03.10.2015
+
+%^YELLOW%^Wisdom:%^RESET%^
+
+The natural range of values for a stat breaks down into 5 categories:
+1 - 10:  A character with a stat in this range is deemed to be debilitated/severely retarded in that stat.  Penalties are often applied when a stat is in this range.
+11 - 30:  The character is below average.  While the character is often not penalized for being below average, some penalties might be levied against the player.
+31 - 70: The character is average for their race.  There are no bonuses or penalties applied to anything.
+71 - 90: The character is above average.  Just like below average characters, characters with above average stats may get a small bonus in certain aspects of the game.
+91 - 100: A character with a stat in the top 10% is considered to be gifted for their race.
+
+Values may go above or below the natural range, but only with the aid of magic or other type of intervention.  Stats do not change as you increase in level, but will change with age. It should be noted that a stat level for one race does not necessarily match that of another race.  For example, the average human with average strength might be weaker than a half-giant with below average strength.
+
+	Wisdom, simply put, is a character's street smarts or common sense. If a skill
+requires wisdom then it determines how wisely you use that skill. If wisdom is your 
+highest stat you will want to pick a class that has primary skills which use a high
+percentage of wisdom. Here is a list of skills that use Wisdom (in order of percentage):
+
+faith: smite thy foes with the power of your faith.
+%^YELLOW%^wisdom:40%%^RESET%^ charisma:20% willpower:40% 
+Classes that have this skill as a primary: Cleric, Kataan, Monk
+
+healing: heal the living, resurrect the dead.
+%^YELLOW%^wisdom:40%%^RESET%^ charisma:10% willpower:30% intelligence:20% 
+Classes that have this skill as a primary: Cleric 
+
+hunting: the ability to butcher animals, track things, and even set traps.
+agility:30% %^YELLOW%^wisdom:40%%^RESET%^ luck:30% 
+Classes that have this skill as a primary: 
+
+alchemy: mix your own mystical potions and poisons
+%^YELLOW%^wisdom:30%%^RESET%^ willpower:20% intelligence:30% luck:20% 
+Classes that have this skill as a primary:
+
+armorsmith: the art of making armor.
+coordination:20% %^YELLOW%^wisdom:30%%^RESET%^ intelligence:30% durability:20% 
+Classes that have this skill as a primary:
+
+warding: weave magical protections to protect against damage.
+%^YELLOW%^wisdom:30%%^RESET%^ willpower:30% intelligence:40% 
+Classes that have this skill as a primary: Cleric, Mage, Monk
+
+weaponsmith: the art of making weapons.
+coordination:20% %^YELLOW%^wisdom:30%%^RESET%^ intelligence:30% strength:20% 
+Classes that have this skill as a primary:
+
+conjuring: create something that wasn't there before.
+%^YELLOW%^wisdom:20%%^RESET%^ charisma:10% willpower:40% intelligence:20% luck:10% 
+Classes that have this skill as a primary: Mage
+
+evocation: project magical power at thine enemies.
+%^YELLOW%^wisdom:20%%^RESET%^ willpower:30% intelligence:50% 
+Classes that have this skill as a primary: Kataan, Mage
+
+survival: survival allows one to catch fish, place traps, and do other things
+coordination:10% agility:20% %^YELLOW%^wisdom:20%%^RESET%^ strength:10% luck:40% 
+Classes that have this skill as a primary: Ranger,
+
+unarmed attack: skill with unarmed combat.
+coordination:30% agility:30% %^YELLOW%^wisdom:10%%^RESET%^ strength:30% luck:10% 
+Classes that have this skill as a primary: Monk
+
+

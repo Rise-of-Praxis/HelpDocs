@@ -1,0 +1,23 @@
+                   Rise of Praxis LPMud Cleric Class Help
+                         Written by Sorrow 05.26.12
+                           Misja modified 03.10.15
+
+%^BOLD%^Clerics:%^RESET%^
+
+The cleric holds the natural world in highest esteem, shunning violence and things unnatural.  They specialize in the healing arts and defense against magic and blunt weapons.  They also have powers of faith which draw from Ilya, goddess of the natural world they worship.
+
+A person who chooses to play a cleric will never fight powerfully. Instead, people playing clerics play the class because they enjoy working with teams to accomplish a task and also because they love helping others.  Clerics are most often seen as doctors or party healers in adventuring groups.
+
+One exception to the cleric non-violence oath is their power over the unnatural world of the undead.  Their faith bestows upon them the ability to rid the world of the undead, or to bring the undead back to the world of the living.
+
+Their default skills are:
+
+Primary skills:     blocking, faith, healing, warding
+Bonus skills:   blunt attack, dodging, survival, stealth, conjuring, evocation
+
+Stats needed for the Cleric Class
+	Major: Wisdom, Willpower, Intelligence, Strength
+	Minor: Strength, Durability, Luck, Coordination
+
+Use the command: "%^BOLD%^improve -list%^RESET%^" for specific descriptions of each skill.
+Typing %^YELLOW%^help <stat>%^RESET%^ also works.

@@ -1,0 +1,7 @@
+disassemble_class() - Store the members of a class in an array.
+
+[Synopsis]
+mixed *disassemble_class( class cl )
+
+[Description]
+Returns an array with the members of cl as elements, in the same order. 

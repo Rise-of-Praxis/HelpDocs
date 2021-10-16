@@ -1,0 +1,51 @@
+                   Rise of Praxis LPMud Willpower Stat Help
+                         Written by Misja 03.10.2015
+
+%^YELLOW%^Willpower:%^RESET%^
+
+The natural range of values for a stat breaks down into 5 categories:
+1 - 10:  A character with a stat in this range is deemed to be debilitated/severely retarded in that stat.  Penalties are often applied when a stat is in this range.
+11 - 30:  The character is below average.  While the character is often not penalized for being below average, some penalties might be levied against the player.
+31 - 70: The character is average for their race.  There are no bonuses or penalties applied to anything.
+71 - 90: The character is above average.  Just like below average characters, characters with above average stats may get a small bonus in certain aspects of the game.
+91 - 100: A character with a stat in the top 10% is considered to be gifted for their race.
+
+Values may go above or below the natural range, but only with the aid of magic or other type of intervention.  Stats do not change as you increase in level, but will change with age. It should be noted that a stat level for one race does not necessarily match that of another race.  For example, the average human with average strength might be weaker than a half-giant with below average strength.
+
+	Willpower defines the concentration of a character. Characters with low willpower
+often have trouble concentrating long enough to do a certain task, especially if a skill
+requires a high amount of willpower. If willpower is your highest stat you will want to 
+pick a class that has primary skills which use a high percentage of willpower. Here is a
+list of skills that use Willpower (in order of percentage):
+
+faith: smite thy foes with the power of your faith.
+wisdom:40% charisma:20% %^YELLOW%^willpower:40%%^RESET%^
+Classes that have this skill as a primary: Cleric, Kataan, Monk
+
+conjuring: create something that wasn't there before.
+wisdom:20% charisma:10% %^YELLOW%^willpower:40%%^RESET%^ intelligence:20% luck:10% 
+Classes that have this skill as a primary: Mage
+
+evocation: project magical power at thine enemies.
+wisdom:20% %^YELLOW%^willpower:40%%^RESET%^ intelligence:50% 
+Classes that have this skill as a primary: Kataan, Mage
+
+healing: heal the living, resurrect the dead.
+wisdom:40% charisma:10% %^YELLOW%^willpower:30%%^RESET%^ intelligence:20% 
+Classes that have this skill as a primary: Cleric 
+
+warding: weave magical protections to protect against damage.
+wisdom:30% %^YELLOW%^willpower:30%%^RESET%^ intelligence:40% 
+Classes that have this skill as a primary: Cleric, Mage, Monk
+
+alchemy: mix your own mystical potions and poisons
+wisdom:30% %^YELLOW%^willpower:20%%^RESET%^ intelligence:30% luck:20% 
+Classes that have this skill as a primary:
+
+bargaining: helps to get the best price when buying or selling.
+charisma:50% %^YELLOW%^willpower:20%%^RESET%^ luck:30% 
+Classes that have this skill as a primary: 
+
+stealing: the ancient art of taking what should be yours.
+coordination:10% agility:40% charisma:10% %^YELLOW%^willpower:10%%^RESET%^ luck:30% 
+Classes that have this skill as a primary: Bard, Rogue
